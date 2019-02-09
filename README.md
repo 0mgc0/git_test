@@ -1,0 +1,1 @@
+This is MGC first git project!
